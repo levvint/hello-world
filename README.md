@@ -1,6 +1,4 @@
 # hello-world
-just a try
-I want to create the next step of AI.
-I just want to make a better world.
-modification numéro 1
-modification numéro 2
+
+
+http://connor-johnson.com/2014/03/20/simple-kriging-in-python/
